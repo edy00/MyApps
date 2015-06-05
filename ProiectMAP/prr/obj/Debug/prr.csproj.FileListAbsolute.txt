@@ -1,0 +1,8 @@
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\prr\bin\Debug\prr.exe.config
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\prr\bin\Debug\prr.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\prr\bin\Debug\prr.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\prr\obj\Debug\prr.csprojResolveAssemblyReference.cache
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\prr\obj\Debug\prr.Properties.Resources.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\prr\obj\Debug\prr.csproj.GenerateResource.Cache
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\prr\obj\Debug\prr.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\prr\obj\Debug\prr.pdb

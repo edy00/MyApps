@@ -1,0 +1,17 @@
+c:\users\edi\documents\visual studio 2013\Projects\ProiectMAP\ProiectMAP\bin\Debug\ProiectMAP.exe.config
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\bin\Debug\ProiectMAP.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\bin\Debug\ProiectMAP.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\bin\Debug\prr.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\bin\Debug\prr.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.csprojResolveAssemblyReference.cache
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.Admin.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.Properties.Resources.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.Room.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.RoomService.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.csproj.GenerateResource.Cache
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.RoomNo.resources
+C:\Users\Edi\Desktop\Work\ProiectMAP\ProiectMAP\bin\Debug\ProiectMAP.exe.config
+C:\Users\Edi\Desktop\Work\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.exe
+C:\Users\Edi\Desktop\Work\ProiectMAP\ProiectMAP\obj\Debug\ProiectMAP.pdb

@@ -1,0 +1,22 @@
+App: - USING DATABASE
+Aplicatie ce se ocupa de administrarea unei institutii teatrale.
+Contine terminal pentru administrator si terminal pentru client.
+Administratorul se ocupa de alterarea datelor legate de piesele de teatru/opere
+Clientul se ocupa de partea de rezervari a locurilor
+Exista notificari pentru fiecare actiune.
+
+
+
+
+
+
+How to use:
+1) deschideti fisierul TheatreDB.sql si rulati 
+fiecare instructine pe rand(ce e intre liniile punctate), pana la ultima
+
+2)deschideti aplicatia si selectati un tip de user
+
+3)introduceti numele dumneavostra si folositi parola "admin" pentru administrator
+si "client" pentru client
+
+4) go wild with ever button! :)

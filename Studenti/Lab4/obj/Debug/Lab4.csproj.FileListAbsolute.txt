@@ -1,0 +1,9 @@
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\bin\Debug\Lab5BD.exe.config
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\obj\Debug\Lab5BD.Properties.Resources.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\bin\Debug\Lab5BD.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\bin\Debug\Lab5BD.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\obj\Debug\Lab5BD.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\obj\Debug\Lab5BD.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\Lab5BD\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache

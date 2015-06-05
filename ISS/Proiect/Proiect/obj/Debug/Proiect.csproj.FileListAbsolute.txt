@@ -1,0 +1,23 @@
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.Admin2.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.Client.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.Control.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\Code.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\Code.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.AddPlay.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\EntityFramework.dll
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\EntityFramework.xml
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.UpdateP.resources
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Proiect\obj\Debug\Proiect.FormControl.resources
+C:\Users\Edi\Desktop\Work\ISS\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Edi\Desktop\Work\ISS\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Edi\Desktop\Work\ISS\Proiect\Proiect\obj\Debug\Proiect.pdb

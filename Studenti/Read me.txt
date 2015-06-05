@@ -1,0 +1,5 @@
+Run the .sql file
+
+execute first 2 lines
+execute the whole rest of the file
+Run the .Net App

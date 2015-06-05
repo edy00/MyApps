@@ -1,0 +1,25 @@
+App: - USING SERIALIZABLE CLASSES AND BINARY FILES
+Aplicatie ce se ocupa de administrarea un receptii de hotel
+
+Exista 2 terminale:
+terminal pentru administrator
+terminal pentru camera
+
+Admin:
+poate vedea comenzile ce sunt in asteptare, comen zile ce au fost efectuate 
+si produsele din stoc. Administratorul poate sa modifice toate aceste date.
+
+Client:
+selecteaza un produs din lista si apoi plaseaza comanda.
+
+How to use:
+
+1)Deschideti aplicatia si apoi intrati in clasa Controller
+2)La declararea celor 3 Repository, specificati path-ul catre cele 3 fisiere binare
+
+private Repository<Order> repOrder = new BinaryRepository<Order>(@"YOUR PATH\orders.txt");
+private Repository<Prod> repProd = new BinaryRepository<Prod>(@"YOUR PATH\prod.txt");
+private Repository<Order> repEfOrder = new BinaryRepository<Order>(@"YOUR PATH\eff.txt");
+
+
+3) You're good to go :).

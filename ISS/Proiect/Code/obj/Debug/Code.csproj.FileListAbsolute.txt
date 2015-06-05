@@ -1,0 +1,10 @@
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\obj\Debug\Code.csprojResolveAssemblyReference.cache
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\bin\Debug\Code.exe.config
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\bin\Debug\Code.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\bin\Debug\Code.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\obj\Debug\Code.exe
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\obj\Debug\Code.pdb
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\bin\Debug\EntityFramework.dll
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\bin\Debug\EntityFramework.xml
+C:\Users\Edi\Documents\Visual Studio 2013\Projects\ISS\Proiect\Code\bin\Debug\EntityFramework.SqlServer.xml
